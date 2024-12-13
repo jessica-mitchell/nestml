@@ -10,6 +10,7 @@ typing_extensions==4.5.0
 sphinx_rtd_theme==2.0.0
 nbclient==0.10.0
 sphinx-design
+sphinx-sitemap
 
 # the following list is a direct copy from requirements.txt in the root directory (requirements for NESTML itself rather than for doc building)
 numpy >= 1.8.2

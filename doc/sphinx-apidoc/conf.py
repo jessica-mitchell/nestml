@@ -143,6 +143,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
+    'sphinx_sitemap',
     'sphinx.ext.coverage',
     'sphinx.ext.mathjax',
     'sphinx_design',
@@ -153,6 +154,8 @@ mathjax_path = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+
+html_baseurl = 'https://nestml.readthedocs.io/en/latest/'
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
