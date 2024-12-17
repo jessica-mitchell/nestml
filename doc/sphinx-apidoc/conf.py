@@ -155,7 +155,7 @@ mathjax_path = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
-#html_baseurl = 'https://nestml-test.readthedocs.io/'
+html_baseurl = 'https://nestml-test.readthedocs.io/'
 #sitemap_url_scheme = "https://nestml-test.readthedocs.io/en/latest"
 
 # The suffix(es) of source filenames.
